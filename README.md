@@ -41,13 +41,3 @@ Welcome to **MeetX-Backend**! 🎉 This is the backend service for MeetX, a plat
 ## Usage 🚀
 
 Once the server is running, you can interact with the API endpoints to manage users, activities, and bookings. Use tools like Postman or integrate with the MeetX frontend for a complete experience. 🎯
-
----
-
-## Contact 📬
-
-For questions or support, please reach out to the MeetX team at [support@meetx.com](mailto:support@meetx.com). We’d love to hear from you! 💬
-
----
-
-Thank you for using MeetX-Backend! 🙌
