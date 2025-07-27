@@ -44,12 +44,6 @@ Once the server is running, you can interact with the API endpoints to manage us
 
 ---
 
-## Demo Gif 🎬
-
-![MeetX Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
----
-
 ## Contact 📬
 
 For questions or support, please reach out to the MeetX team at [support@meetx.com](mailto:support@meetx.com). We’d love to hear from you! 💬
